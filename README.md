@@ -4,4 +4,7 @@ It is a small escape room where you are a templarian knight lost in a forest dur
 
 How to setup?
 1. Download the folder called "DownloadThisFolderAndExtract".
-2. Select all the .z
+2. Select all the ".rar" files.
+3. Right click and select "Extract here".
+4. Double click the setup file and install the game.
+5. Enjoy (:
